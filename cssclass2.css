@@ -1,0 +1,102 @@
+body{background-color: rgba(128,128,128, 0.137);}
+.container{
+    display: flex;
+    position: relative;
+    left: -5%;
+    margin: 5%;
+    width: 150px;
+    
+   
+}
+.img{ width: 150px;
+    height: 250px;
+   border-radius: 10px;
+    
+}
+.box{
+    width: 150px;
+    height: 200px;
+    margin: 5%;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.box1{ width: 150px;
+    height: 250px;
+    
+}
+.inner{position:relative;
+    left: 10%;
+    width: 50px;
+    height: 50px;
+    bottom: 250px;
+    border: solid blue;
+    border-radius: 50%;
+}
+.name{position:absolute;
+    top:200px ;
+    color: rgb(253, 252, 252);
+    padding: 10px 10px 10px 50px;
+}
+
+.img1{width: 150px;
+    height: 150px;
+   }
+   .name1{text-align: center;
+color: solid black;}
+.add{position:absolute;
+    left: 30%;
+    width: 50px;
+    height: 50px;
+    bottom: 80px;
+    border:solid white;
+    border-radius: 50%;
+     ;}
+     .next{position: relative;
+       right: -50%;
+        width: 30px;
+        height: 30px;
+        bottom: 150px;
+        border:white;
+        border-radius: 50%;
+
+    }
+.container2{
+    background-color: white;
+    height: 150px;
+    
+    
+}
+     
+     .me{left: 10px;
+        width: 60px;
+        height: 60px;
+        border-radius: 100%;
+      margin-top: 10px;
+      margin-left: 15px;
+     }
+     .text{position: absolute;
+        margin-top: 20px;
+         width: 800px;
+         height: 40px;
+         background-color:  rgba(128,128,128, 0.137);
+         border: none;
+         border-radius: 10px;
+     }
+.container3{
+    display: flex;
+    margin-left: 80px;
+    }
+    .photo {
+        width: 30px;
+    height: 30px;
+margin-left: 30%;}
+    .live{
+        width: 30px;
+    height: 30px;
+    margin-left: 0%;
+    }
+    .feeling{
+        width: 30px;
+    height: 30px;
+    margin-left:30% ;}
